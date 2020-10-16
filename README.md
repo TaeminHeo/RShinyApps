@@ -1,6 +1,6 @@
 # RShinyApps
  
-These interactive applications were developed for laboratory activity of the course, Probability and Statistics for Civil Engineering, University of Texas at Austin. All problems are designed by Dr. Lance Maneul and the interactive applications are programmed by Taemin Heo. Each app is web-based, can be accessed by URL Link provided below. Source code and description of each app is provided in each folder.  
+These interactive applications were developed for laboratory activity of the course, Probability and Statistics for Civil Engineering, University of Texas at Austin. All problems are designed by [Dr. Lance Maneul](https://www.caee.utexas.edu/prof/manuel/) and the interactive applications are programmed by [Taemin Heo](www.linkedin.com/in/taeminheo). Each app is web-based, can be accessed by URL Link provided below. Source code and description of each app is provided in each folder.  
 
 ## Links
 1. Lifeline          : https://taemin.shinyapps.io/Lifeline/
