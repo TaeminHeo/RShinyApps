@@ -1,11 +1,3 @@
-# RShinyApps
+# Lifeline
  
-These interactive applications were developed for laboratory activity of CE311S Probability and Statistics for Civil Engineering taught by [Dr. Lance Manuel](https://www.caee.utexas.edu/prof/manuel/) at the University of Texas at Austin in Fall 2018 and Fall 2020. All problems are designed by Dr. Manuel and the interactive applications are programmed by [Taemin Heo](www.linkedin.com/in/taeminheo). Each app is web-based and it can be accessed by URL Link provided below. Source code and description of each app are provided in each folder.  
-
-## Links
-1. Lifeline          : https://taemin.shinyapps.io/Lifeline/
-2. RoadDesign        : https://taemin.shinyapps.io/Roaddesign/
-3. Landfill          : https://taemin.shinyapps.io/Landfill/
-4. LaborCost         : https://taemin.shinyapps.io/Laborcost/
-5. LeveeSimulation   : https://taemin.shinyapps.io/leveesimulation/
-6. ColumnReliability : https://taemin.shinyapps.io/Column/
+This application is designed to study event theory to analyze the reliability of a critical road system for emergency vehicles during an earthquake. Students select each cost of road A, B, and C by adjusting the slider bar. Then, by clicking the "next trial" button, they simulate a random earthquake scenario and get the damage status of each road. Each attempt simulates an earthquake situation, and the outcomes are designed to be vary depending on the construction cost of each road. By collecting and analyzing the data, students can learn how to estimate meaningful statistics for risk assessment. This activity also gives students a viewpoint in making a sustainable decision by comparing different initial construction costs and failure costs as a civil engineer.
