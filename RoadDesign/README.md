@@ -1,3 +1,3 @@
-# Lifeline
+# RoadDesign
  
-This application is designed to study event theory to analyze the reliability of a critical road system for emergency vehicles during an earthquake. Students select each cost of road A, B, and C by adjusting the slider bar. Then, by clicking the "next trial" button, they simulate a random earthquake scenario and get the damage status of each road. Each attempt simulates an earthquake situation, and the outcomes are designed to be vary depending on the construction cost of each road. By collecting and analyzing the data, students can learn how to estimate meaningful statistics for risk assessment. This activity also gives students a viewpoint in making a sustainable decision by comparing different initial construction costs and failure costs as a civil engineer.
+This application is an expanded version of the lifeline application. Instead of generating an earthquake situation one-by-one, this application generates a selected number of earthquake simulations at once.  Students type the required number of simulations into the "Total number of earthquake simulation" input box.  By using this application, students get faster result.
