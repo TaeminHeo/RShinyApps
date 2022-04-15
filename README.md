@@ -7,5 +7,5 @@ These interactive applications were developed for laboratory activity of CE311S 
 2. RoadDesign        : https://taemin.shinyapps.io/Roaddesign/
 3. Landfill          : https://taemin.shinyapps.io/Landfill/
 4. LaborCost         : https://taemin.shinyapps.io/Laborcost/
-5. LeveeSimulation   : https://taemin.shinyapps.io/leveesimulation/
+5. LeveeSimulation   : https://taemin.shinyapps.io/leveesimulation/ <- Currently archived due to server pricing
 6. ColumnReliability : https://taemin.shinyapps.io/Column/
